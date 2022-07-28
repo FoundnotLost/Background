@@ -1,2 +1,2 @@
-# Background
-ZTM Background Project
+# background-generator
+Fun project with JavaScript
